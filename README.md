@@ -9,7 +9,7 @@ CS 186: Introduction to Database Systems, Spring 2023, UC Berkeley
 
 [Course website](https://cs186berkeley.net/): I used the 2023 spring version.
 
-[Recorded videos](https://www.youtube.com/user/CS186Berkeley/playlists): I watched the recorded videos on Youtube, you can also find the same videos on bilibili. 
+[Recorded videos](https://www.youtube.com/user/CS186Berkeley/playlists): 
 
 [PPT](./ppt)
 
